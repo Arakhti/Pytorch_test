@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pytorch_test", "Pytorch_test\Pytorch_test.pyproj", "{4EE60B88-5940-4AAD-B6C6-85F1DBDDCF08}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Titanic", "Titanic\Titanic.pyproj", "{09AE4C1D-4AD8-42B5-AF56-C112FB48E21A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE60B88-5940-4AAD-B6C6-85F1DBDDCF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE60B88-5940-4AAD-B6C6-85F1DBDDCF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AE4C1D-4AD8-42B5-AF56-C112FB48E21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AE4C1D-4AD8-42B5-AF56-C112FB48E21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0F6C8FE-59EF-4DA9-9BB8-26087D82F352}
+	EndGlobalSection
+EndGlobal
